@@ -5,12 +5,12 @@
 }
 
 :root {
-    --primary-color: #667eea;
-    --secondary-color: #764ba2;
-    --text-dark: #1a1a1a;
-    --text-light: #666;
-    --bg-light: #f9f9f9;
-    --border-color: #eee;
+    --primary-color: #6b7280;
+    --secondary-color: #8b8680;
+    --text-dark: #2d2d2d;
+    --text-light: #6b7280;
+    --bg-light: #f3f1ed;
+    --border-color: #e5e0d8;
     --transition: all 0.3s ease;
 }
 
@@ -123,7 +123,7 @@ body {
 }
 
 .btn-primary {
-    background: linear-gradient(135deg, #667eea, #764ba2);
+    background: linear-gradient(135deg, #6b7280, #8b8680);
     color: white;
 }
 
